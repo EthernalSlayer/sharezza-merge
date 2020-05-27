@@ -1,2 +1,2 @@
-# sharezza-merge
+REMOTE
 let made me a conflict
