@@ -1,2 +1,2 @@
-# sharezza-merge
+LOCAL
 let made me a conflict
